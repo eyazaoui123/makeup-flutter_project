@@ -5,7 +5,7 @@ import 'package:flutter_application_1/pages/login.dart';
 
 class AuthPage extends StatelessWidget {
   const AuthPage({super.key});
-
+/*************************** */
   @override
   Widget build(BuildContext context) {
     return Scaffold(
